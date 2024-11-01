@@ -1,0 +1,466 @@
+.et_pb_section_0_tb_header.et_pb_section {
+    padding-top: 0px;
+    padding-bottom: 0px
+}
+
+.et_pb_section_0_tb_header {
+    z-index: 10;
+    box-shadow: 0px 3px 18px -6px rgba(0, 0, 0, 0.3)
+}
+
+.et_pb_row_0_tb_header {
+    background-color: #124258
+}
+
+.et_pb_row_0_tb_header.et_pb_row {
+    padding-top: 7px !important;
+    padding-right: 7% !important;
+    padding-bottom: 8px !important;
+    padding-left: 7% !important;
+    padding-top: 7px;
+    padding-right: 7%;
+    padding-bottom: 8px;
+    padding-left: 7%
+}
+
+.et_pb_row_0_tb_header,
+body #page-container .et-db #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row,
+body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row,
+body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row {
+    width: 100%;
+    max-width: 2560px
+}
+
+.et_pb_text_0_tb_header.et_pb_text {
+    color: #FFFFFF !important
+}
+
+.et_pb_text_0_tb_header {
+    margin-bottom: -16px !important
+}
+
+body #page-container .et_pb_section .et_pb_button_0_tb_header {
+    color: #FFFFFF !important;
+    border-width: 1px !important;
+    letter-spacing: 0px;
+    font-size: 16px;
+    text-transform: uppercase !important
+}
+
+body #page-container .et_pb_section .et_pb_button_0_tb_header:after {
+    font-size: 1.6em
+}
+
+body.et_button_custom_icon #page-container .et_pb_button_0_tb_header:after {
+    font-size: 16px
+}
+
+.et_pb_button_0_tb_header,
+.et_pb_button_0_tb_header:after {
+    transition: all 300ms ease 0ms
+}
+
+.et_pb_row_1_tb_header.et_pb_row {
+    padding-top: 8px !important;
+    padding-bottom: 9px !important;
+    padding-top: 8px;
+    padding-bottom: 9px
+}
+
+.et_pb_menu_0_tb_header.et_pb_menu ul li a {
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #000000 !important
+}
+
+.et_pb_menu_0_tb_header.et_pb_menu {
+    background-color: #ffffff
+}
+
+.et_pb_menu_0_tb_header.et_pb_menu ul li.current-menu-item a {
+    color: #000000 !important
+}
+
+.et_pb_menu_0_tb_header.et_pb_menu .nav li ul,
+.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu,
+.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu ul {
+    background-color: #ffffff !important
+}
+
+.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,
+.et_pb_menu_0_tb_header .et_pb_menu__logo-slot {
+    width: auto;
+    max-width: 100%
+}
+
+.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,
+.et_pb_menu_0_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img {
+    height: auto;
+    max-height: none
+}
+
+.et_pb_menu_0_tb_header .mobile_nav .mobile_menu_bar:before {
+    color: #68ce8d
+}
+
+.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__search-button,
+.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button {
+    color: #124258
+}
+
+.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__cart-button {
+    color: #7EBEC5
+}
+
+@media only screen and (max-width:980px) {
+    body #page-container .et_pb_section .et_pb_button_0_tb_header:after {
+        display: inline-block;
+        opacity: 0
+    }
+    body #page-container .et_pb_section .et_pb_button_0_tb_header:hover:after {
+        opacity: 1
+    }
+}
+
+@media only screen and (max-width:767px) {
+    body #page-container .et_pb_section .et_pb_button_0_tb_header:after {
+        display: inline-block;
+        opacity: 0
+    }
+    body #page-container .et_pb_section .et_pb_button_0_tb_header:hover:after {
+        opacity: 1
+    }
+}
+
+div.et_pb_section.et_pb_section_0_tb_footer {
+    background-image: radial-gradient(ellipse at center, #d1dcdf 0%, rgba(41, 196, 169, 0.35) 98%), url(https://discoveryscientifics.in/wp-content/uploads/2024/02/background-2462430_640.jpg) !important
+}
+
+.et_pb_section_0_tb_footer.et_pb_section {
+    padding-top: 0px;
+    padding-bottom: 0px
+}
+
+.et_pb_row_0_tb_footer {
+    border-top-color: #000000;
+    border-bottom-color: #000000;
+    border-bottom-width: 1px;
+    box-shadow: 0px -4px 18px -6px rgba(0, 0, 0, 0.3)
+}
+
+.et_pb_row_0_tb_footer.et_pb_row {
+    padding-right: 10% !important;
+    padding-left: 10% !important;
+    padding-right: 10%;
+    padding-left: 10%
+}
+
+.et_pb_row_0_tb_footer,
+body #page-container .et-db #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,
+body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,
+body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,
+.et_pb_row_2_tb_footer,
+body #page-container .et-db #et-boc .et-l .et_pb_row_2_tb_footer.et_pb_row,
+body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_2_tb_footer.et_pb_row,
+body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_2_tb_footer.et_pb_row {
+    width: 100%;
+    max-width: 2560px
+}
+
+.et_pb_text_1_tb_footer,
+.et_pb_text_2_tb_footer {
+    margin-bottom: 5px !important
+}
+
+.et_pb_menu_0_tb_footer.et_pb_menu ul li a,
+.et_pb_menu_1_tb_footer.et_pb_menu ul li a,
+.et_pb_text_4_tb_footer.et_pb_text,
+.et_pb_menu_0_tb_footer.et_pb_menu ul li.current-menu-item a,
+.et_pb_menu_1_tb_footer.et_pb_menu ul li.current-menu-item a {
+    color: #000000 !important
+}
+
+.et_pb_menu_0_tb_footer.et_pb_menu .nav li ul,
+.et_pb_menu_0_tb_footer.et_pb_menu .et_mobile_menu,
+.et_pb_menu_0_tb_footer.et_pb_menu .et_mobile_menu ul,
+.et_pb_menu_1_tb_footer.et_pb_menu .nav li ul,
+.et_pb_menu_1_tb_footer.et_pb_menu .et_mobile_menu,
+.et_pb_menu_1_tb_footer.et_pb_menu .et_mobile_menu ul {
+    background-color: #ffffff !important
+}
+
+.et_pb_menu_0_tb_footer .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,
+.et_pb_menu_0_tb_footer .et_pb_menu__logo-slot,
+.et_pb_menu_1_tb_footer .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,
+.et_pb_menu_1_tb_footer .et_pb_menu__logo-slot {
+    width: auto;
+    max-width: 100%
+}
+
+.et_pb_menu_0_tb_footer .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,
+.et_pb_menu_0_tb_footer .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img,
+.et_pb_menu_1_tb_footer .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,
+.et_pb_menu_1_tb_footer .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img {
+    height: auto;
+    max-height: none
+}
+
+.et_pb_menu_0_tb_footer .mobile_nav .mobile_menu_bar:before,
+.et_pb_menu_0_tb_footer .et_pb_menu__icon.et_pb_menu__search-button,
+.et_pb_menu_0_tb_footer .et_pb_menu__icon.et_pb_menu__close-search-button,
+.et_pb_menu_0_tb_footer .et_pb_menu__icon.et_pb_menu__cart-button,
+.et_pb_menu_1_tb_footer .mobile_nav .mobile_menu_bar:before,
+.et_pb_menu_1_tb_footer .et_pb_menu__icon.et_pb_menu__search-button,
+.et_pb_menu_1_tb_footer .et_pb_menu__icon.et_pb_menu__close-search-button,
+.et_pb_menu_1_tb_footer .et_pb_menu__icon.et_pb_menu__cart-button {
+    color: #7EBEC5
+}
+
+.et_pb_text_3_tb_footer {
+    margin-bottom: 7px !important
+}
+
+.et_pb_row_2_tb_footer {
+    background-color: #68ce8d
+}
+
+.et_pb_row_2_tb_footer.et_pb_row {
+    padding-top: 18px !important;
+    padding-bottom: 15px !important;
+    padding-top: 18px;
+    padding-bottom: 15px
+}
+
+@media only screen and (max-width:980px) {
+    .et_pb_row_0_tb_footer {
+        border-top-color: #000000;
+        border-bottom-color: #000000;
+        border-bottom-width: 1px
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .et_pb_row_0_tb_footer {
+        border-top-color: #000000;
+        border-bottom-color: #000000;
+        border-bottom-width: 1px
+    }
+}
+
+.et_pb_section_0.et_pb_section {
+    padding-top: 0px;
+    padding-bottom: 0px
+}
+
+.et_pb_row_0.et_pb_row {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px;
+    padding-bottom: 0px
+}
+
+.et_pb_row_0,
+body #page-container .et-db #et-boc .et-l .et_pb_row_0.et_pb_row,
+body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0.et_pb_row,
+body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0.et_pb_row {
+    width: 100%;
+    max-width: 2560px
+}
+
+.et_pb_slider_0.et_pb_slider {
+    overflow-x: hidden;
+    overflow-y: hidden
+}
+
+.et_pb_section_1.et_pb_section {
+    padding-top: 6px;
+    padding-bottom: 0px;
+    background-color: #124258 !important
+}
+
+.et_pb_text_0.et_pb_text,
+.et_pb_text_0 h1 {
+    color: #FFFFFF !important
+}
+
+.et_pb_row_2.et_pb_row {
+    padding-bottom: 59px !important;
+    padding-bottom: 59px
+}
+
+.et_pb_icon_0,
+.et_pb_icon_1,
+.et_pb_icon_2,
+.et_pb_icon_3 {
+    text-align: center
+}
+
+.et_pb_icon_0 .et_pb_icon_wrap .et-pb-icon {
+    font-family: FontAwesome !important;
+    font-weight: 900 !important;
+    color: #FFFFFF;
+    font-size: 96px
+}
+
+.et_pb_text_1,
+.et_pb_text_3 {
+    background-color: #FFFFFF;
+    padding-top: 25px !important;
+    padding-right: 25px !important;
+    padding-bottom: 25px !important;
+    padding-left: 25px !important
+}
+
+.et_pb_icon_1 .et_pb_icon_wrap .et-pb-icon,
+.et_pb_icon_2 .et_pb_icon_wrap .et-pb-icon {
+    font-family: ETmodules !important;
+    font-weight: 400 !important;
+    color: #FFFFFF;
+    font-size: 96px
+}
+
+.et_pb_text_2 {
+    background-color: #FFFFFF;
+    padding-top: 25px !important;
+    padding-right: 25px !important;
+    padding-bottom: 25px !important;
+    padding-left: 25px !important;
+    box-shadow: 0px 2px 18px 0px rgba(0, 0, 0, 0.3)
+}
+
+div.et_pb_section.et_pb_section_2 {
+    background-image: radial-gradient(ellipse at center, #ffffff 0%, rgba(209, 220, 223, 0.89) 95%), url(https://discoveryscientifics.in/wp-content/uploads/2024/02/geometry-1023846_640.jpg) !important
+}
+
+.et_pb_section_2.et_pb_section {
+    padding-top: 11px;
+    padding-bottom: 0px
+}
+
+.et_pb_text_4 {
+    margin-bottom: -20px !important
+}
+
+.et_pb_text_5 {
+    background-color: #d1dcdf;
+    padding-top: 25px !important;
+    padding-right: 10px !important;
+    padding-bottom: 25px !important;
+    padding-left: 10px !important
+}
+
+.et_pb_shop_0 ul.products li.product .onsale {
+    padding-top: 6px !important;
+    padding-right: 18px !important;
+    padding-bottom: 6px !important;
+    padding-left: 18px !important;
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important
+}
+
+.et_pb_shop_0 ul.products li.product .star-rating {
+    width: calc(5.4em + (0px * 4))
+}
+
+div.et_pb_section.et_pb_section_3 {
+    background-image: linear-gradient(180deg, #ffffff 1%, #d1dcdf 98%) !important
+}
+
+.et_pb_section_3.et_pb_section {
+    padding-top: 32px;
+    padding-bottom: 24px
+}
+
+.et_pb_icon_3 .et_pb_icon_wrap .et-pb-icon {
+    font-family: FontAwesome !important;
+    font-weight: 900 !important;
+    color: #124258;
+    font-size: 96px
+}
+
+body #page-container .et_pb_section .et_pb_contact_form_0.et_pb_contact_form_container.et_pb_module .et_pb_button {
+    color: #FFFFFF !important;
+    border-width: 0px !important;
+    font-size: 17px;
+    background-color: #124258 !important
+}
+
+body #page-container .et_pb_section .et_pb_contact_form_0.et_pb_contact_form_container.et_pb_module .et_pb_button:after {
+    font-size: 1.6em
+}
+
+body.et_button_custom_icon #page-container .et_pb_contact_form_0.et_pb_contact_form_container.et_pb_module .et_pb_button:after {
+    font-size: 17px
+}
+
+.et_pb_contact_form_0 .input,
+.et_pb_contact_form_0 .input[type="checkbox"]+label,
+.et_pb_contact_form_0 .input[type="radio"]+label,
+.et_pb_contact_form_0 .input[type="checkbox"]:checked+label i:before,
+.et_pb_contact_form_0 .input::placeholder {
+    color: #000000
+}
+
+.et_pb_contact_form_0 .input::-webkit-input-placeholder {
+    color: #000000
+}
+
+.et_pb_contact_form_0 .input::-moz-placeholder {
+    color: #000000
+}
+
+.et_pb_contact_form_0 .input::-ms-input-placeholder {
+    color: #000000
+}
+
+.et_pb_contact_form_0 .input[type="radio"]:checked+label i:before {
+    background-color: #000000
+}
+
+.et_pb_slider .et_pb_slide_0 {
+    background-image: url(https://discoveryscientifics.in/wp-content/uploads/2024/04/dna-5297378_1920.jpg)
+}
+
+.et_pb_slider .et_pb_slide_1 {
+    background-image: url(https://discoveryscientifics.in/wp-content/uploads/2024/04/dna-3539309_1920.jpg)
+}
+
+.et_pb_slider .et_pb_slide_2 {
+    background-image: url(https://discoveryscientifics.in/wp-content/uploads/2024/04/dna-1903318_1920.jpg)
+}
+
+@media only screen and (max-width:980px) {
+    .et_pb_icon_0,
+    .et_pb_icon_1,
+    .et_pb_icon_2,
+    .et_pb_icon_3 {
+        margin-left: auto;
+        margin-right: auto
+    }
+    body #page-container .et_pb_section .et_pb_contact_form_0.et_pb_contact_form_container.et_pb_module .et_pb_button:after {
+        display: inline-block;
+        opacity: 0
+    }
+    body #page-container .et_pb_section .et_pb_contact_form_0.et_pb_contact_form_container.et_pb_module .et_pb_button:hover:after {
+        opacity: 1
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .et_pb_icon_0,
+    .et_pb_icon_1,
+    .et_pb_icon_2,
+    .et_pb_icon_3 {
+        margin-left: auto;
+        margin-right: auto
+    }
+    body #page-container .et_pb_section .et_pb_contact_form_0.et_pb_contact_form_container.et_pb_module .et_pb_button:after {
+        display: inline-block;
+        opacity: 0
+    }
+    body #page-container .et_pb_section .et_pb_contact_form_0.et_pb_contact_form_container.et_pb_module .et_pb_button:hover:after {
+        opacity: 1
+    }
+}
