@@ -1,0 +1,64 @@
+.lwp-hide-mobile-menu.et_pb_menu .et_pb_menu__menu,
+.lwp-hide-mobile-menu.et_pb_fullwidth_menu .et_pb_menu__menu {
+    display: flex !important
+}
+
+.lwp-hide-mobile-menu .et_mobile_nav_menu {
+    display: none
+}
+
+@media (min-width:768px) and (max-width:980px) {
+    .lwp-hide-mobile-menu.et_pb_menu .et_pb_menu__menu,
+    .lwp-hide-mobile-menu.et_pb_fullwidth_menu .et_pb_menu__menu {
+        display: flex !important
+    }
+    .lwp-hide-mobile-menu .et_mobile_nav_menu {
+        display: none
+    }
+}
+
+.lwp-hide-mobile-menu .et_pb_menu__menu>nav>ul>li {
+    width: 100%
+}
+
+@media (max-width:767px) {
+    .lwp-hide-mobile-menu .et_pb_menu__menu>nav>ul>li {
+        width: 100%
+    }
+}
+
+.et_pb_widget a {
+    text-decoration: none;
+    color: #000
+}
+
+p {
+    color: #000 !important
+}
+
+.et_pb_widget a {
+    text-decoration: none;
+    color: #000
+}
+
+.csboxtranportant {
+    background: #191919db;
+    padding: 15px;
+    border-radius: 15px
+}
+
+.woocommerce:where(body:not(.woocommerce-uses-block-theme)) .woocommerce-breadcrumb {
+    font-size: .92em;
+    color: #000000
+}
+
+p:not(.has-background):last-of-type {
+    padding-bottom: 0;
+    color: #000 !important
+}
+
+.csbackground {
+    background: #191919db;
+    padding: 15px;
+    border-radius: 15px
+}
